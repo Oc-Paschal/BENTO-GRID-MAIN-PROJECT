@@ -1,0 +1,153 @@
+.parent_container{
+    display: flex;
+    /* gap: 2%; */
+    justify-content: center;
+    background-color:rgb(198, 198, 253);
+    padding: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 4%;
+}
+
+
+img {width: 10rem;}
+
+span {
+    color:hsl(39, 100%, 71%);
+}
+.createcontent{
+    background-color: rgb(241, 231, 212);
+    border-radius: 2%;
+    text-align: center;
+    height: 300px;
+    padding-top: 20%;
+    font-weight: bolder;
+    font-size:large;
+    
+}
+.mom{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+}
+.first_image{
+    width: 8rem;
+}
+.UsingAI{
+    background-color:hsl(39, 100%, 71%);
+    padding-left: 5%;
+    border-radius: 2%;
+    text-align: center;
+    padding-top: 7%;
+    height: 320px;
+    font-weight: bolder;
+    font-size: large;
+
+}
+.AIimage{
+    width: 8rem;
+    height: 170px;
+}
+.social_media{
+    background-color:hsl(256, 67%, 59%);
+    color: white;
+    padding-top: 10%;
+    width: 400px;
+    text-align: center;
+    padding-bottom: 10%;
+    border-radius: 2%;
+    margin-left: 2%;
+    margin-right: 7%;
+    margin-bottom: 2%;
+
+}
+.Manage_account{
+    background-color: whitesmoke;
+    gap: 2%;
+    padding-left: 7%;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 2%;
+    padding-top: 4%;
+    margin-left: 3%;
+}
+.consistent_posting{
+    background-color:hsl(39, 100%, 71%);
+    font-size: large;
+    font-weight: bolder;
+    width: 15.5rem;
+    height: 94%;
+    padding-left: 5%;
+    padding-top: 1%;
+    /* padding-bottom: 1%; */
+    border-radius: 2%;
+    
+}
+.calender{
+    height: 4rem;
+}
+.Schedule_media{
+    background-color:hsl(254, 88%, 90%) ;
+    width: 12rem;
+    height: 430px;
+    border-radius: 2%;
+    padding-left: 2%;
+    font-weight: bolder;
+    font-size: medium;
+    /* padding-top:1%; */
+    padding-bottom: 2%;
+    text-align: center;
+    margin: 2%;
+    overflow: hidden;
+}
+.percentage{
+    background-color: rgb(249, 248, 246);
+    border-radius: 2%;
+    font-weight: bolder;
+    font-size: medium;
+    width: 12rem;
+    padding-left: 2%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.Follower_growth{
+    background-color:hsl(256, 67%, 59%) ;
+    padding-top: 8%;
+    color: rgb(243, 238, 238);
+    border-radius: 2%;
+    height: 8rem;
+    font-weight: bolder;
+    font-size: medium;
+    text-align: center;
+    padding-bottom: 4%;
+    padding-right: 3%;
+    width:24rem ;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.inSocials{
+    display: flex;
+}
+.lastdiv{
+    display:flex;
+    flex-direction: column;
+}
+.omo{
+    display: flex;
+    gap: 2%;
+}
+.last_growth{
+    display: flex;
+}
+.Follower_growth{
+    display: flex;
+    font-size: x-large;
+    padding-left: 2%;
+}
+.posting_time{
+    height: 55%;
+    width: 160%;
+}
+.span1{
+    color:black;
+}
